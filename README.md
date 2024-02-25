@@ -1,0 +1,2 @@
+# ExpressJS Simple Route Tutorial
+In this tutorial, I will demonstrate how to create a simple route structure for an API using the Express.js router object. When developing Node.js applications, organizing your code in a modular and readable fashion is crucial. Well-organized code helps make web applications more efficient, making them easier to troubleshoot and test and giving you more time to develop user-friendly applications.
